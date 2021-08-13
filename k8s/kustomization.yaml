@@ -5,6 +5,6 @@ resources:
   - service.yaml
   - route.yaml
 commonLabels:
-  app: Hello-world-app
-  app.kubernetes.io/instance: Hello-world-app-instance
-  app.kubernetes.io/name: Hello-world-app
+  app: hello-world-app
+  app.kubernetes.io/instance: hello-world-app-instance
+  app.kubernetes.io/name: hello-world-app
